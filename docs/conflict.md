@@ -9,7 +9,7 @@
 
 - 后端：Node.js
 - 前端：Vue 3
-- 数据库：MySQL
+- 数据库：MongoDB|xiekaibo|
 - 鉴权：JWT
 - 部署：本地运行（不上线）
 
